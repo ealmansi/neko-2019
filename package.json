@@ -1,0 +1,11 @@
+{
+  "name": "neko-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ealmansi/neko-2019.git",
+  "author": "Emilio Almansi <ealmansi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "0.11.1"
+  }
+}
