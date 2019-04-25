@@ -1,6 +1,7 @@
 {
   "name": "neko-2019",
   "version": "1.0.0",
+  "description": "Criptomonedas: terminología, mitos y verdades.",
   "main": "index.js",
   "repository": "https://github.com/ealmansi/neko-2019.git",
   "author": "Emilio Almansi <ealmansi@gmail.com>",
