@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Criptomonedas
 description: Terminología, mitos y verdades.
+github:
+  is_project_page: false
